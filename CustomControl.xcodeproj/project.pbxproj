@@ -14,6 +14,7 @@
 		FBAC2F3B1D29F76400C451B2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FBAC2F391D29F76400C451B2 /* LaunchScreen.storyboard */; };
 		FBAC2F431D29F7B100C451B2 /* RangeSlider.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBAC2F421D29F7B100C451B2 /* RangeSlider.swift */; };
 		FBAC2F451D29FD2900C451B2 /* RangeSliderThumbLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBAC2F441D29FD2900C451B2 /* RangeSliderThumbLayer.swift */; };
+		FBAC2F471D2A199800C451B2 /* demo.gif in Resources */ = {isa = PBXBuildFile; fileRef = FBAC2F461D2A199800C451B2 /* demo.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		FBAC2F3C1D29F76400C451B2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FBAC2F421D29F7B100C451B2 /* RangeSlider.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RangeSlider.swift; sourceTree = "<group>"; };
 		FBAC2F441D29FD2900C451B2 /* RangeSliderThumbLayer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RangeSliderThumbLayer.swift; sourceTree = "<group>"; };
+		FBAC2F461D2A199800C451B2 /* demo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = demo.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				FBAC2F3C1D29F76400C451B2 /* Info.plist */,
 				FBAC2F421D29F7B100C451B2 /* RangeSlider.swift */,
 				FBAC2F441D29FD2900C451B2 /* RangeSliderThumbLayer.swift */,
+				FBAC2F461D2A199800C451B2 /* demo.gif */,
 			);
 			path = CustomControl;
 			sourceTree = "<group>";
@@ -129,6 +132,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FBAC2F3B1D29F76400C451B2 /* LaunchScreen.storyboard in Resources */,
+				FBAC2F471D2A199800C451B2 /* demo.gif in Resources */,
 				FBAC2F381D29F76400C451B2 /* Assets.xcassets in Resources */,
 				FBAC2F361D29F76400C451B2 /* Main.storyboard in Resources */,
 			);
